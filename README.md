@@ -1,3 +1,10 @@
+# XNHALE
+
+XNHALE Cyberdelic Hackathon is an immersive experience controlled by your breath.
+
+
+
+
 # Cyberdelic Hackathon Boilerplate
 
 A Unity 6 project template for rapid prototyping of cyberdelic mixed reality experiences.  
